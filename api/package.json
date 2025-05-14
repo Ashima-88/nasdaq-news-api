@@ -1,0 +1,6 @@
+{
+  "name": "nasdaq-news-api",
+  "version": "1.0.0",
+  "main": "api/news.js",
+  "type": "module"
+}
